@@ -2,7 +2,7 @@
 - 👀 I’m interested in building things...
 - 🌱 I’m currently learning web technologies
 - 💞️ I’m looking to collaborate on open-source, web3 & SaaS
-- 📫 Feel free to drop a DM @ https://twitter.com/p_abhishekk
+- 📫 Feel free to drop a DM @ https://twitter.com/p__abhishekk
 
 <!---
 maverikkano/maverikkano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
