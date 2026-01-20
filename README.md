@@ -7,7 +7,8 @@ Backend Engineer | Cloud, LLMs, Multi-agent Workflows, MLOps
 Backend Engineer building high-throughput distributed systems and production LLM platforms. Experienced in architecting multi-service systems on Azure and AWS, with a deep focus on performance, reliability, and scale. Currently working on RAG architectures, LLM tuning, LLMOps, and multi-agent workflows built for real-world deployment.
 
 * 🌍  I'm based in Pune, India
-* 🖥️  See my portfolio at [Website](http://abhishekpatil.blog/)
+* 🖥️  See my portfolio at [abhishekpatil.blog](http://abhishekpatil.blog/)
+* 🖋️  See my tech blog at [The Elemental](http://tech.abhishekpatil.blog/)
 * ✉️  You can contact me at [abhipatil16@proton.me](mailto:abhipatil16@proton.me)
 * 🧠  I'm currently learning Everything LLMs and multi-agent systems
 
